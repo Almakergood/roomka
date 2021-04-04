@@ -1,11 +1,10 @@
 ﻿{
-	"version": 1617549469,
+	"version": 1617558863,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
-		"sprite-sheet0.png",
 		"hryuk.ogg",
 		"icon-16.png",
 		"icon-32.png",
