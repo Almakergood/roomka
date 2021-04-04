@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1617446650,
+	"version": 1617530281,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,7 @@
 		"c2mp-net.js",
 		"c2mp-peer.js",
 		"c2mp.js",
-		"waker.js"
+		"waker.js",
+		"moment-with-locales.min.js"
 	]
 }
